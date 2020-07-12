@@ -1,0 +1,2 @@
+This is a basic function grapher that can graph equations such as exponential functions, Cubic functions, linear functions and quadratics. 
+This is done using Matplot lib, numpy and the math library.
